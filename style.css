@@ -23,7 +23,7 @@
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Arial","Open Sans", sans-serif;
   background-color: #e4e2dd;
   color: var(--text);
   line-height: 1.5;
@@ -3939,5 +3939,6 @@ footer {
     text-align: center;
   }
 }
+
 
 
